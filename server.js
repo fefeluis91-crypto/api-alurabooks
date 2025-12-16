@@ -366,5 +366,6 @@ https.createServer(
   },
   server  
 ).listen(8000, () => {
-  console.log("API disponível em https://localhost:8000")
+  console.log("Boas-vindas a API do Allbooks")
+  console.log("API disponível através da url https://localhost:8000")
 })
